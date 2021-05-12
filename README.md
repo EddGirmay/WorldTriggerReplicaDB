@@ -1,2 +1,0 @@
-# WorldTriggerReplicaDB
-ReplicaDB
