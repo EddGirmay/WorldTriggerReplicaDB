@@ -1,2 +1,2 @@
-# WorldTriggerReplicaDB-
+# WorldTriggerReplicaDB
 ReplicaDB
